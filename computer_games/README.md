@@ -37,3 +37,4 @@ Bu proje, bilgisayar oyunları hakkında çeşitli verilerin analiz edilmesine o
 - **Microsoft Windows**, en yaygın kullanılan işletim sistemi olarak öne çıkmaktadır.
 
 Bu projede, oyun sektörü hakkında önemli istatistiksel bilgiler elde edilmiş ve sektörün genel eğilimleri hakkında bir fikir edinilmiştir.
+
