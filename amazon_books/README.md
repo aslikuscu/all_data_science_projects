@@ -53,6 +53,3 @@ Projenin amacı, veri setindeki kitapları anlamlı bir şekilde analiz ederek a
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
----
-
-Projenin geliştirilmesi veya katkıda bulunmak isteyenler için lütfen pull request gönderin veya iletişime geçin.
