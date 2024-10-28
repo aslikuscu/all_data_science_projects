@@ -1,0 +1,3 @@
+[submodule "all_data_science_projects"]
+	path = all_data_science_projects
+	url = https://github.com/aslikuscu/all_data_science_projects.git
