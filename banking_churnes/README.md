@@ -6,6 +6,12 @@
 ## Proje Açıklaması
 Bu proje, bankacılık sektöründeki müşteri kaybını (churn) tahmin etmek amacıyla geliştirilmiştir. Müşteri verileri analiz edilerek, hangi müşterilerin bankayı terk etme olasılığının yüksek olduğunu belirlemek için makine öğrenimi yöntemleri kullanılmaktadır.
 
+## İçindekiler
+1. **Veri Seti**  
+2. **Yöntemler**  
+3. **Konu**  
+4. **Sonuç**  
+
 ## Veri Seti
 Veri seti, müşteri bilgilerini içeren 10,127 satır ve 23 sütun içermektedir. Anahtar özellikler şunlardır:
 - **CLIENTNUM**: Müşteri numarası
@@ -18,29 +24,22 @@ Veri seti, müşteri bilgilerini içeren 10,127 satır ve 23 sütun içermektedi
 - **Credit_Limit**: Müşterinin kredi limiti
 - **Avg_Utilization_Ratio**: Ortalama kredi kullanım oranı
 
-## Gerekli Kütüphaneler
-Projenin çalışması için aşağıdaki Python kütüphanelerine ihtiyaç vardır:
-- pandas
-- numpy
-- matplotlib
-- seaborn (isteğe bağlı, görselleştirmeler için)
-- scikit-learn (makine öğrenimi modelleri için)
+## Yöntemler
+Müşteri kaybını tahmin etmek için kullanılan yöntemler:
+- **Veri Ön İşleme**: Eksik değerlerin yönetimi ve verilerin normalizasyonu.
+- **Keşifsel Veri Analizi (EDA)**: Müşteri özelliklerinin görselleştirilmesi ve ilişkilerin incelenmesi.
+- **Makine Öğrenimi Modelleri**: 
+  - Lojistik Regresyon
+  - Rastgele Orman
+  - Destek Vektör Makineleri (SVM)
+  - Karar Ağaçları
+- **Model Değerlendirme**: Doğruluk, F1 skoru, ROC eğrisi gibi metriklerin kullanımı.
 
-## Kurulum
-1. Python 3.x sürümünü bilgisayarınıza kurun.
-2. Aşağıdaki komutları kullanarak gerekli kütüphaneleri yükleyin:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-   ```
+## Konu
+Bu proje, bankaların müşteri kaybını önlemek amacıyla stratejiler geliştirmesine yardımcı olacak veriye dayalı bilgiler sağlamayı hedeflemektedir. Müşteri davranışlarının analizi, bankaların daha iyi hizmet sunmalarına ve müşteri sadakatini artırmalarına katkıda bulunacaktır.
 
-## Kullanım
-1. Projeyi klonlayın veya indirin.
-2. `BankChurners.csv` veri dosyasını uygun bir dizine yerleştirin.
-3. Jupyter Notebook veya başka bir IDE kullanarak `bank_churn_prediction.py` veya `notebook.ipynb` dosyasını açın.
-4. Kodu çalıştırarak müşteri kaybını tahmin edin.
-
-## Sonuçlar
-Veri analizi ve modelleme sonuçları, hangi özelliklerin müşteri kaybı üzerinde daha etkili olduğunu gösterir. Bu bilgiler, bankaların müşteri sadakatini artırmak için stratejiler geliştirmelerine yardımcı olabilir.
+## Sonuç
+Veri analizi ve modelleme sonuçları, hangi özelliklerin müşteri kaybı üzerinde daha etkili olduğunu göstermektedir. Özellikle, gelir durumu, kredi limiti ve ortalama kredi kullanım oranı gibi faktörler müşteri kaybını etkileyen önemli belirleyicilerdir. Bu bilgiler, bankaların müşteri sadakatini artırmak için stratejiler geliştirmelerine yardımcı olabilir.
 
 ## Katkıda Bulunanlar
 - [Adınız] (GitHub profil bağlantınız)
