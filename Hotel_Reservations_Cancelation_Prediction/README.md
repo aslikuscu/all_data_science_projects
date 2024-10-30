@@ -1,4 +1,3 @@
-İşte verilerin analizi ve modelleme sürecinin özeti:
 
 ## Proje Özeti
 
