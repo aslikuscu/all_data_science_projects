@@ -63,5 +63,3 @@ Bu analiz sonucunda, ürün satış performansları ve müşteri tercihleri hakk
 gibi alanlarda bu analizler faydalı olabilir.
 
 --- 
-
-Bu şekilde, README, projeyi kullanacak veya inceleyecek kişilere genel bir bakış ve analiz sonuçları hakkında bilgi sunacaktır.
