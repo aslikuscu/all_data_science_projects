@@ -49,7 +49,4 @@ Projenin amacı, veri setindeki kitapları anlamlı bir şekilde analiz ederek a
     python main.py
     ```
 
-## Lisans
-
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
