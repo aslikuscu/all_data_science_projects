@@ -1,5 +1,6 @@
-### Proje Başlığı
-Deneyime Göre Maaş Tahmini - Lineer ve Polinom Regresyon Uygulaması
+# Deneyime Göre Maaş Tahmini 
+
+## Lineer ve Polinom Regresyon Uygulaması
 
 ---
 
