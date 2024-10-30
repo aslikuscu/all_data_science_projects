@@ -44,8 +44,7 @@ Veri analizi ve modelleme sonuçları, hangi özelliklerin müşteri kaybı üze
 ## Katkıda Bulunanlar
 - [Adınız] (GitHub profil bağlantınız)
 
-## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+
 
 ---
 
