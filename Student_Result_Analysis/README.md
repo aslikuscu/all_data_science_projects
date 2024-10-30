@@ -1,5 +1,6 @@
-### Proje Başlığı
-Öğrenci Başarı Analizi - Veriye Dayalı İstatistiksel İnceleme ve Görselleştirme
+# Öğrenci Başarı Analizi 
+
+### Veriye Dayalı İstatistiksel İnceleme ve Görselleştirme
 
 ---
 
