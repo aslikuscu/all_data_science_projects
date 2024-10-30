@@ -80,6 +80,5 @@ Katkılarınızı bekliyoruz! Lütfen proje hakkında öneri, hata raporu veya i
 4. Dalınıza push edin (`git push origin feature/AmazingFeature`).
 5. Bir Pull Request oluşturun.
 
-## Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır. Ayrıntılar için `LICENSE` dosyasına göz atın.
+
 
