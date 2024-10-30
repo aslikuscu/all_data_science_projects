@@ -71,14 +71,6 @@ df = seasons_stats.loc[seasons_stats['Year'] > 1979]  # 1980 sonrası veriyi fil
 ## Kullanım
 Proje Jupyter Notebook veya herhangi bir Python IDE'sinde çalıştırılabilir. İlgili verileri indirip, yukarıdaki veri temizleme adımlarını izleyerek çalıştırabilirsiniz.
 
-## Katkıda Bulunma
-Katkılarınızı bekliyoruz! Lütfen proje hakkında öneri, hata raporu veya iyileştirme taleplerinizi paylaşın.
-
-1. Bu projeyi forklayın.
-2. Yeni bir dal oluşturun (`git checkout -b feature/AmazingFeature`).
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`).
-4. Dalınıza push edin (`git push origin feature/AmazingFeature`).
-5. Bir Pull Request oluşturun.
 
 
 
