@@ -1,4 +1,4 @@
-### Proje Başlığı: Kredi Kartı Müşteri Segmentasyonu
+# Kredi Kartı Müşteri Segmentasyonu
 
 Bu projede, bir kredi kartı müşteri veri setini analiz ederek kullanıcıları farklı özelliklere göre gruplamak amaçlanmıştır. Proje kapsamında, veri ön işleme, temel istatistiksel analizler ve kümeleme yöntemleri kullanılarak müşteri segmentleri belirlenmiştir.
 
