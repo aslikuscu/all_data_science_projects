@@ -20,5 +20,3 @@ Bu proje, otel rezervasyonları verilerini analiz ederek, konukların rezervasyo
 
 ### Sonuç
 Proje, otel işletmeciliğinde müşteri davranışlarını anlamak ve rezervasyon iptallerini minimize etmek amacıyla önemli bulgular sunmaktadır. Özellikle müşteri memnuniyetini artırmak ve yeni misafirleri tekrar kazanmak için stratejilerin geliştirilmesi önerilmektedir.
-
-Bu özet, projenin temel bulgularını ve çıkarımlarını kapsamaktadır ve detaylı analiz ve modelleme süreçleri için daha fazla bilgi gerekmektedir.
