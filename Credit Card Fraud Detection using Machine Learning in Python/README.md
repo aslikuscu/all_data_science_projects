@@ -92,7 +92,7 @@ python credit_card_fraud_detection.py
 For any questions or feedback, feel free to reach out:
 
 - **Email**: [aslii.ksc@gmail.com]
-- **LinkedIn**: [[your LinkedIn profile](https://www.linkedin.com/in/asli-kuscu/)]
+- **LinkedIn**: [[My LinkedIn profile](https://www.linkedin.com/in/asli-kuscu/)]
 
 ---
 
