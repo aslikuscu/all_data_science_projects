@@ -1,6 +1,4 @@
-Certainly! Here’s a well-crafted `README.md` file that presents your project in an attractive and professional way for potential employers or clients:
 
----
 
 # **Credit Card Fraud Detection using Logistic Regression**
 
@@ -98,10 +96,3 @@ For any questions or feedback, feel free to reach out:
 
 ---
 
-## 📑 **License**
-
-This project is licensed under the MIT License.
-
----
-
-This `README.md` is structured to provide a concise yet complete overview of your project. It highlights the main aspects of the problem, the solution, the technologies used, and results achieved in a professional and appealing manner. Make sure to replace placeholders like `<repository-link>`, `[youremail@example.com]`, and `[your LinkedIn profile]` with your actual details.
